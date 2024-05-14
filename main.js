@@ -5,7 +5,7 @@ const url = document.getElementById("link")
 const img = document.getElementById("image")
 
 // apikey
-const apiKey = import.meta.env.VITE_API_KEY
+const API_KEY = 'd5f71f1b88bcdb5972f77baa88b7ce9b';
 
 // landing page section of news
 const leftCol = document.getElementById("leftCol")
